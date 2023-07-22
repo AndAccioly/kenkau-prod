@@ -12,7 +12,7 @@ app.get('/sobre', (req, res) => {
 
 
 app.get('/cartas', (req, res) => {
-   res.redirect('/cartas')
+   res.redirect('https://www.kenkau.com/cartas')
 });
 
 app.get('*', (req, res) => {
