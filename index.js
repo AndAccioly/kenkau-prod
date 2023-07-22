@@ -12,7 +12,7 @@ app.get('/sobre', (req, res) => {
 
 
 app.get('/cartas', (req, res) => {
-   res.sendFile(path.join(__dirname+'/index.js'));
+   res.redirect('/cartas')
 });
 
 app.get('*', (req, res) => {
