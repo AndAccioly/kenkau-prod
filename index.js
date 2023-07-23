@@ -1,22 +1,23 @@
 const express = require('express')
-
 const path = require('path')
-
 const app = express()
 
-app.use(express.static(path.join(__dirname + "/public")))
 
-app.get('/sobre', (req, res) => {
-  res.render('https://www.kenkau.com/sobre');
+
+app.use(express.static(path.join(__dirname, 'public',)))
+
+
+app.get('/sobre', (req, res, next) => {
+    res.sendFile(path.join(__dirname, 'public', 'index.html'));
 });
 
-
-app.get('/cartas', (req, res) => {
-   res.redirect('https://www.kenkau.com/cartas')
-});
+// app.get('/cartas', (req, res) => {
+//   console.log(req)
+//   res.send('Hello World!')
+// });
 
 app.get('*', (req, res) => {
-  res.send(req);
+    res.sendFile(path.join(__dirname, 'public', 'index.html'));
 });
 
 const PORT = process.env.PORT || 5000
