@@ -25,11 +25,11 @@ app.get('/perfil', (req, res) => {
 
 app.get('/alterarSenha', (req, res) => {
     res.sendFile(path.join(__dirname, 'public', 'index.html'));
-});alterarSenha
+});
 
 app.get('/ativarConta', (req, res) => {
     res.sendFile(path.join(__dirname, 'public', 'index.html'));
-});alterarSenha
+});
 
 app.get('*', (req, res) => {
     res.redirect('/')
