@@ -15,8 +15,24 @@ app.get('/cartas', (req, res) => {
     res.sendFile(path.join(__dirname, 'public', 'index.html'));
 });
 
-app.get('*', (req, res) => {
+app.get('/tutorial', (req, res) => {
     res.sendFile(path.join(__dirname, 'public', 'index.html'));
+});
+
+app.get('/perfil', (req, res) => {
+    res.sendFile(path.join(__dirname, 'public', 'index.html'));
+});
+
+app.get('/alterarSenha', (req, res) => {
+    res.sendFile(path.join(__dirname, 'public', 'index.html'));
+});alterarSenha
+
+app.get('/ativarConta', (req, res) => {
+    res.sendFile(path.join(__dirname, 'public', 'index.html'));
+});alterarSenha
+
+app.get('*', (req, res) => {
+    res.redirect('/')
 });
 
 const PORT = process.env.PORT || 5000
