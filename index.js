@@ -15,6 +15,10 @@ app.get('/cartas', (req, res) => {
     res.sendFile(path.join(__dirname, 'public', 'index.html'));
 });
 
+app.get('/loja', (req, res) => {
+    res.sendFile(path.join(__dirname, 'public', 'index.html'));
+});
+
 app.get('/tutorial', (req, res) => {
     res.sendFile(path.join(__dirname, 'public', 'index.html'));
 });
