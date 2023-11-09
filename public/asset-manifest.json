@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/static/css/main.2c25ba8c.css",
-    "main.js": "/static/js/main.cecc89f1.js",
+    "main.js": "/static/js/main.115ae168.js",
     "static/js/787.ad0dd450.chunk.js": "/static/js/787.ad0dd450.chunk.js",
     "static/media/background.jpg": "/static/media/background.a814829fad9fdf5f3bd6.jpg",
+    "static/media/logoComPersonagem.png": "/static/media/logoComPersonagem.c8a2a54c81f87ee1c7c4.png",
+    "static/media/logoVerticalComPersonagem.png": "/static/media/logoVerticalComPersonagem.03ac8aac78e6c8ea42d5.png",
     "static/media/mascote.png": "/static/media/mascote.161524354270ad52a0fc.png",
     "static/media/background-noite.jpg": "/static/media/background-noite.20c7c5684b46210da041.jpg",
     "static/media/deckBuilder.png": "/static/media/deckBuilder.bbd37dc8e1d5f16afc8e.png",
     "static/media/pesquisarListas.png": "/static/media/pesquisarListas.6bae8a53cce19d983125.png",
     "static/media/tree1.png": "/static/media/tree1.bdbb51a96e4da8fcdbb8.png",
-    "static/media/logoTexto.png": "/static/media/logoTexto.f5282398254b161f9a2a.png",
-    "static/media/logoVertical.png": "/static/media/logoVertical.0b2dd7bc93860dc41322.png",
     "static/media/grass.png": "/static/media/grass.d4462cbc3a40043d051e.png",
     "static/media/logoTextoBranca.png": "/static/media/logoTextoBranca.0b6e46e72c2cfcc1f418.png",
     "static/media/logoVerticalBranca.png": "/static/media/logoVerticalBranca.42cbfbe1a8dd0323bba4.png",
@@ -26,11 +26,11 @@
     "static/media/fogo.png": "/static/media/fogo.7787046769ffbfc053c5.png",
     "index.html": "/index.html",
     "main.2c25ba8c.css.map": "/static/css/main.2c25ba8c.css.map",
-    "main.cecc89f1.js.map": "/static/js/main.cecc89f1.js.map",
+    "main.115ae168.js.map": "/static/js/main.115ae168.js.map",
     "787.ad0dd450.chunk.js.map": "/static/js/787.ad0dd450.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.2c25ba8c.css",
-    "static/js/main.cecc89f1.js"
+    "static/js/main.115ae168.js"
   ]
 }
