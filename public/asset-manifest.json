@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.2c25ba8c.css",
-    "main.js": "/static/js/main.8c2829af.js",
+    "main.js": "/static/js/main.9752ba0f.js",
     "static/js/787.ad0dd450.chunk.js": "/static/js/787.ad0dd450.chunk.js",
     "static/media/background.jpg": "/static/media/background.a814829fad9fdf5f3bd6.jpg",
     "static/media/logoVerticalComPersonagem.png": "/static/media/logoVerticalComPersonagem.71d93d62e5cb7838aae6.png",
@@ -24,11 +24,11 @@
     "static/media/fogo.png": "/static/media/fogo.7787046769ffbfc053c5.png",
     "index.html": "/index.html",
     "main.2c25ba8c.css.map": "/static/css/main.2c25ba8c.css.map",
-    "main.8c2829af.js.map": "/static/js/main.8c2829af.js.map",
+    "main.9752ba0f.js.map": "/static/js/main.9752ba0f.js.map",
     "787.ad0dd450.chunk.js.map": "/static/js/787.ad0dd450.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.2c25ba8c.css",
-    "static/js/main.8c2829af.js"
+    "static/js/main.9752ba0f.js"
   ]
 }
