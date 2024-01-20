@@ -1,19 +1,19 @@
 {
   "files": {
     "main.css": "/static/css/main.2c25ba8c.css",
-    "main.js": "/static/js/main.377cf45a.js",
+    "main.js": "/static/js/main.eb2c756e.js",
     "static/js/787.ad0dd450.chunk.js": "/static/js/787.ad0dd450.chunk.js",
     "static/media/background.jpg": "/static/media/background.a814829fad9fdf5f3bd6.jpg",
-    "static/media/logoVerticalComPersonagem.png": "/static/media/logoVerticalComPersonagem.71d93d62e5cb7838aae6.png",
+    "static/media/logoVerticalComPersonagem.png": "/static/media/logoVerticalComPersonagem.59cff7d2a6245766cbf2.png",
     "static/media/background-noite.jpg": "/static/media/background-noite.20c7c5684b46210da041.jpg",
     "static/media/colecao.png": "/static/media/colecao.5d2a0a4a86957506ccaf.png",
+    "static/media/logoVertical.png": "/static/media/logoVertical.6514d5abb13c8ff5a606.png",
     "static/media/pesquisarListas.png": "/static/media/pesquisarListas.9d9ed73f863b59f821f7.png",
     "static/media/deckBuilder.png": "/static/media/deckBuilder.3e56429f11d66eecad6a.png",
     "static/media/troca.png": "/static/media/troca.da8e357a8b8033173636.png",
     "static/media/desejo.png": "/static/media/desejo.9c12141ad568737da3cf.png",
     "static/media/tree1.png": "/static/media/tree1.bdbb51a96e4da8fcdbb8.png",
-    "static/media/logoTexto.png": "/static/media/logoTexto.f5282398254b161f9a2a.png",
-    "static/media/logoVertical.png": "/static/media/logoVertical.0b2dd7bc93860dc41322.png",
+    "static/media/logoTexto.png": "/static/media/logoTexto.be57f1a886c1af2c193d.png",
     "static/media/grass.png": "/static/media/grass.d4462cbc3a40043d051e.png",
     "static/media/logoTextoBranca.png": "/static/media/logoTextoBranca.0b6e46e72c2cfcc1f418.png",
     "static/media/logoVerticalBranca.png": "/static/media/logoVerticalBranca.42cbfbe1a8dd0323bba4.png",
@@ -25,11 +25,11 @@
     "static/media/fogo.png": "/static/media/fogo.7787046769ffbfc053c5.png",
     "index.html": "/index.html",
     "main.2c25ba8c.css.map": "/static/css/main.2c25ba8c.css.map",
-    "main.377cf45a.js.map": "/static/js/main.377cf45a.js.map",
+    "main.eb2c756e.js.map": "/static/js/main.eb2c756e.js.map",
     "787.ad0dd450.chunk.js.map": "/static/js/787.ad0dd450.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.2c25ba8c.css",
-    "static/js/main.377cf45a.js"
+    "static/js/main.eb2c756e.js"
   ]
 }
