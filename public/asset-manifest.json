@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.c4cd1429.css",
-    "main.js": "/static/js/main.b107bcd8.js",
+    "main.js": "/static/js/main.24ee1aa9.js",
     "static/js/787.ad0dd450.chunk.js": "/static/js/787.ad0dd450.chunk.js",
     "static/media/background.jpg": "/static/media/background.a814829fad9fdf5f3bd6.jpg",
     "static/media/logoVerticalComPersonagem.png": "/static/media/logoVerticalComPersonagem.7b9a3a69b31d4fc98cfe.png",
@@ -17,15 +17,15 @@
     "static/media/logoVerticalBranca.png": "/static/media/logoVerticalBranca.c45f530f138a2ac4d5a1.png",
     "static/media/logoTexto.png": "/static/media/logoTexto.9c84021533fa2af5bd48.png",
     "static/media/grass.png": "/static/media/grass.d4462cbc3a40043d051e.png",
-    "static/media/logoTextoBranca.png": "/static/media/logoTextoBranca.0b6e46e72c2cfcc1f418.png",
-    "static/media/roadmap.png": "/static/media/roadmap.6285a6639d5207af9917.png",
+    "static/media/logoTextoBranca.png": "/static/media/logoTextoBranca.6a7ff7eed6ec5d17339a.png",
+    "static/media/roadmap2.png": "/static/media/roadmap2.c73a2169d33cadf2dc12.png",
     "index.html": "/index.html",
     "main.c4cd1429.css.map": "/static/css/main.c4cd1429.css.map",
-    "main.b107bcd8.js.map": "/static/js/main.b107bcd8.js.map",
+    "main.24ee1aa9.js.map": "/static/js/main.24ee1aa9.js.map",
     "787.ad0dd450.chunk.js.map": "/static/js/787.ad0dd450.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.c4cd1429.css",
-    "static/js/main.b107bcd8.js"
+    "static/js/main.24ee1aa9.js"
   ]
 }
