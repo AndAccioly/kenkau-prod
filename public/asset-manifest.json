@@ -1,12 +1,13 @@
 {
   "files": {
     "main.css": "/static/css/main.c4cd1429.css",
-    "main.js": "/static/js/main.5ec0d334.js",
+    "main.js": "/static/js/main.3e6b5f53.js",
     "static/js/787.ad0dd450.chunk.js": "/static/js/787.ad0dd450.chunk.js",
     "static/media/background.jpg": "/static/media/background.a814829fad9fdf5f3bd6.jpg",
     "static/media/logoVerticalComPersonagem.png": "/static/media/logoVerticalComPersonagem.7b9a3a69b31d4fc98cfe.png",
     "static/media/album.png": "/static/media/album.40f92808b4afcd13ad3c.png",
     "static/media/colecao.png": "/static/media/colecao.c49e449e84efa2a4f712.png",
+    "static/media/catalogue.png": "/static/media/catalogue.172f66986c2748f75886.png",
     "static/media/troca.png": "/static/media/troca.4ce769b38cccc84ebb80.png",
     "static/media/background-noite.jpg": "/static/media/background-noite.20c7c5684b46210da041.jpg",
     "static/media/desejo.png": "/static/media/desejo.f0614d0c74a14ce25163.png",
@@ -22,11 +23,11 @@
     "static/media/roadmap2.png": "/static/media/roadmap2.c73a2169d33cadf2dc12.png",
     "index.html": "/index.html",
     "main.c4cd1429.css.map": "/static/css/main.c4cd1429.css.map",
-    "main.5ec0d334.js.map": "/static/js/main.5ec0d334.js.map",
+    "main.3e6b5f53.js.map": "/static/js/main.3e6b5f53.js.map",
     "787.ad0dd450.chunk.js.map": "/static/js/787.ad0dd450.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.c4cd1429.css",
-    "static/js/main.5ec0d334.js"
+    "static/js/main.3e6b5f53.js"
   ]
 }
