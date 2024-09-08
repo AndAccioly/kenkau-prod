@@ -1,10 +1,10 @@
 {
   "files": {
     "main.css": "/static/css/main.c4cd1429.css",
-    "main.js": "/static/js/main.838b501d.js",
+    "main.js": "/static/js/main.20bd1774.js",
     "static/js/787.ad0dd450.chunk.js": "/static/js/787.ad0dd450.chunk.js",
     "static/media/background.jpg": "/static/media/background.a814829fad9fdf5f3bd6.jpg",
-    "static/media/logoVerticalComPersonagem.png": "/static/media/logoVerticalComPersonagem.7b9a3a69b31d4fc98cfe.png",
+    "static/media/logoVerticalComPersonagemBeta.png": "/static/media/logoVerticalComPersonagemBeta.e0aa7a84a47b15ad798f.png",
     "static/media/album.png": "/static/media/album.40f92808b4afcd13ad3c.png",
     "static/media/colecao.png": "/static/media/colecao.c49e449e84efa2a4f712.png",
     "static/media/catalogue.png": "/static/media/catalogue.172f66986c2748f75886.png",
@@ -17,17 +17,16 @@
     "static/media/tree1.png": "/static/media/tree1.bdbb51a96e4da8fcdbb8.png",
     "static/media/logoVerticalBranca.png": "/static/media/logoVerticalBranca.c45f530f138a2ac4d5a1.png",
     "static/media/logoTexto.png": "/static/media/logoTexto.9c84021533fa2af5bd48.png",
-    "static/media/home1.jpg": "/static/media/home1.e2b8d2ecd044b02b39df.jpg",
     "static/media/grass.png": "/static/media/grass.d4462cbc3a40043d051e.png",
     "static/media/logoTextoBranca.png": "/static/media/logoTextoBranca.6a7ff7eed6ec5d17339a.png",
     "static/media/roadmap2.png": "/static/media/roadmap2.c73a2169d33cadf2dc12.png",
     "index.html": "/index.html",
     "main.c4cd1429.css.map": "/static/css/main.c4cd1429.css.map",
-    "main.838b501d.js.map": "/static/js/main.838b501d.js.map",
+    "main.20bd1774.js.map": "/static/js/main.20bd1774.js.map",
     "787.ad0dd450.chunk.js.map": "/static/js/787.ad0dd450.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.c4cd1429.css",
-    "static/js/main.838b501d.js"
+    "static/js/main.20bd1774.js"
   ]
 }
