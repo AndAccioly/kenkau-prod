@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.c4cd1429.css",
-    "main.js": "/static/js/main.9494c006.js",
+    "main.js": "/static/js/main.2355d7f5.js",
     "static/js/787.ad0dd450.chunk.js": "/static/js/787.ad0dd450.chunk.js",
     "static/media/background.jpg": "/static/media/background.a814829fad9fdf5f3bd6.jpg",
     "static/media/logoVerticalComPersonagemBeta.png": "/static/media/logoVerticalComPersonagemBeta.e0aa7a84a47b15ad798f.png",
@@ -22,11 +22,11 @@
     "static/media/roadmap2.png": "/static/media/roadmap2.c73a2169d33cadf2dc12.png",
     "index.html": "/index.html",
     "main.c4cd1429.css.map": "/static/css/main.c4cd1429.css.map",
-    "main.9494c006.js.map": "/static/js/main.9494c006.js.map",
+    "main.2355d7f5.js.map": "/static/js/main.2355d7f5.js.map",
     "787.ad0dd450.chunk.js.map": "/static/js/787.ad0dd450.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.c4cd1429.css",
-    "static/js/main.9494c006.js"
+    "static/js/main.2355d7f5.js"
   ]
 }
